@@ -1,11 +1,6 @@
 import React from "react"
 import Image from "next/image"
-const func = () => {
-  return (
-    <div >
-       you&apos;re free
-      </div>
-  )}
+
 
 const skills = [
   { skill: "HTML" },
